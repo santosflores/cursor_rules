@@ -22,9 +22,11 @@ This repository contains a collection of Cursor rules that provide guidance for:
 
 ### Workflow Rules
 
-- **`process-task-list.mdc`** - Guidelines for processing and organizing development tasks and requirements
-- **`generate-task-list.mdc`** - Standards for generating and structuring task lists from requirements
-- **`product-manager.mdc`** - Product development workflows, user story creation, and project management practices
+1. **`product-manager.mdc`** - Product development workflows, user story creation, and project management practices
+2. **`data-layer-analyst.mdc`** - Extract from the PRD the data entities involved on the product
+3. **`software-architect.mdc`** - Creates Software Architecutre documents using the PRD and the Data Layer Analysis
+4. **`generate-task-list.mdc`** - Standards for generating and structuring task lists from requirements
+5. **`process-task-list.mdc`** - Guidelines for processing and organizing development tasks and requirements
 
 ## Usage as Git Submodule
 
