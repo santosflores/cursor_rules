@@ -23,7 +23,7 @@ fi
 
 # Update the submodule
 echo "📥 Pulling latest changes from cursor rules repository..."
-git submodule update --remote .cursor/rules
+git submodule update --remote .cursor
 
 # Check if there are any changes
 if git diff --quiet .cursor/rules; then
