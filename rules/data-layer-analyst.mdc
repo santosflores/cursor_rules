@@ -246,3 +246,6 @@ Data layer analysis should produce:
 - **Quality Assurance**: Data validation rules and quality monitoring
 - **Security Considerations**: Data protection and access control requirements
 - **Performance Guidelines**: Optimization strategies and best practices
+- **Format:** Markdown (`.md`)
+- **Location:** `/tasks/`
+- **Filename:** `data-[feature-name].md`
