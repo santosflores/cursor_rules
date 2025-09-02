@@ -184,3 +184,9 @@ When providing SQL code:
 - Include index creation statements
 - Show both the schema and sample data when appropriate
 - Provide performance considerations and optimization tips
+
+## Outputs
+
+- **Format:** Markdown (`.md`)
+- **Location:** `/docs/`
+- **Filename:** `database-[feature-name].md`

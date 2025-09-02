@@ -247,5 +247,5 @@ Data layer analysis should produce:
 - **Security Considerations**: Data protection and access control requirements
 - **Performance Guidelines**: Optimization strategies and best practices
 - **Format:** Markdown (`.md`)
-- **Location:** `/tasks/`
+- **Location:** `/docs/`
 - **Filename:** `data-[feature-name].md`
