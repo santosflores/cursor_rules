@@ -35,7 +35,7 @@ This repository contains a collection of Cursor rules that provide guidance for:
 1. **Initialize the submodule in your project:**
 
    ```bash
-   git submodule add https://github.com/yourusername/cursor_rules.git .cursor/rules
+   git submodule add https://github.com/santosflores/cursor_rules.git .cursor
    ```
 
 2. **Initialize and update the submodule:**
