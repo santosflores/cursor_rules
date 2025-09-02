@@ -241,7 +241,7 @@ Data layer analysis should produce:
 
 - **Executive Summary**: High-level data requirements overview
 - **Detailed Analysis**: Comprehensive data model specifications
-- **Visual Models**: ERDs, data flow diagrams, and process maps
+- **Visual Models**: ERDs, data flow diagrams, and process maps using the Mermaid notation
 - **Implementation Specs**: Database schemas, API definitions, and code examples
 - **Quality Assurance**: Data validation rules and quality monitoring
 - **Security Considerations**: Data protection and access control requirements
