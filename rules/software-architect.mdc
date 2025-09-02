@@ -250,6 +250,6 @@ Architecture documents should be:
 
 - **Markdown Format**: Easy to read and version control
 - **Structured**: Clear sections and subsections
-- **Visual**: Include diagrams and flowcharts
+- **Visual**: Include diagrams and flowcharts using the Mermaid syntax
 - **Actionable**: Provide clear guidance for implementation
 - **Maintainable**: Easy to update as the system evolves
