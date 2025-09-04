@@ -23,6 +23,7 @@ You are an expert integrating Firebase into Flutter using FlutterFire
   - Create necessary types.
 - Don't leave blank lines within a function.
 - One export per file.
+- Don't use print, prefer the logger package.
 
 ### Nomenclature
 
